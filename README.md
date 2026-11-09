@@ -2,7 +2,7 @@
 
 ### Backend Engineer | Distributed Systems | AI Engineering
 
-B.Tech in Electronics & Communication Engineering @ **NIT Rourkela** (2024–2028)
+B.Tech @ **NIT Rourkela** (2024–2028)
 
 I build backend systems, distributed architectures and AI-powered applications. I'm particularly interested in system design, database internals, scalability and building reliable systems.
 
