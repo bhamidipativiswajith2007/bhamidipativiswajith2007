@@ -1,106 +1,106 @@
-## Hi there 👋
+# Hi, I'm Viswajith Bhamidipati 👋
 
-<!--
-**bhamidipativiswajith2007/bhamidipativiswajith2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend & Distributed Systems
 
-Here are some ideas to get you started:
+I'm an Electronics & Communication Engineering undergraduate at **NIT Rourkela**, interested in building scalable backend systems, distributed architectures, and real-time applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-------------------------------------------------
+I enjoy understanding how systems work internally — from database internals and networking to distributed storage and system design.
 
-👋 Hi, I'm Viswajith
+- 🔭 Building backend systems and distributed applications.
+- 🌱 Exploring TypeScript, Next.js, PostgreSQL and AI infrastructure.
+- ⚙️ Interested in system design, databases, scalability and performance.
+- 💡 Focused on writing reliable, maintainable and efficient software.
 
-🎓 B.Tech Electronics & Communication Engineering
-National Institute of Technology Rourkela
+---
 
-Backend Developer
-Distributed Systems Enthusiast
-Full Stack Developer
+### Tech Stack
 
-------------------------------------------------
+**Languages**
 
-About Me
+C++ · JavaScript · TypeScript · Python
 
-• Building scalable backend applications
+**Backend & Databases**
 
-• Interested in Distributed Systems
+Node.js · Express.js · MongoDB · PostgreSQL · Mongoose · REST APIs
 
-• Exploring System Design
+**Frontend**
 
-• Competitive Programmer
+React.js · Next.js · HTML · CSS
 
-------------------------------------------------
+**Infrastructure & Tools**
 
-Tech Stack
+Docker · Git · GitHub · Nginx · Socket.io · WebRTC
 
-Languages
+---
 
-C++
-JavaScript
-SQL
+### Featured Projects
 
-Frontend
+#### 01. Replicora — Distributed File Storage System
 
-React
-HTML
-CSS
+A distributed file storage system built using a coordinator-worker architecture.
 
-Backend
+- Designed a metadata coordinator for file ingestion, chunking and replica placement.
+- Implemented distributed storage nodes for binary file operations.
+- Built round-robin replica selection.
+- Implemented rollback mechanisms to handle partial upload failures.
+- Used streaming to process files efficiently.
 
-Node.js
-Express.js
+**Tech:** Node.js · Express.js · MongoDB · Docker · Nginx
 
-Database
+#### 02. Synapse — Full-Stack Collaborative Interview Suite
 
-MongoDB
+A real-time collaborative interview platform combining communication and coding tools.
 
-Tools
+- Integrated real-time communication using WebRTC and Socket.io.
+- Built a collaborative code editor using Monaco Editor.
+- Integrated a collaborative whiteboard using HTML5 Canvas.
+- Designed backend services for managing collaborative sessions.
 
-Docker
-Git
-GitHub
-Socket.io
-WebRTC
-Piston API
+**Tech:** MongoDB · Express.js · React.js · Node.js · WebRTC · Socket.io
 
-------------------------------------------------
+#### 03. InstaChat — Real-Time Messaging & Calling Platform
 
-Featured Projects
+A real-time messaging and communication application.
 
-⭐ Synapse
+- Implemented real-time messaging using Socket.io.
+- Integrated peer-to-peer audio and video calling using WebRTC.
+- Used MongoDB for persistent conversation data.
 
-Real-time collaborative interview platform
+**Tech:** React.js · Node.js · Express.js · MongoDB · Socket.io · WebRTC
 
-⭐ Distributed Storage System
+#### 04. ZenSpace — Productivity Dashboard
 
-Chunk replication
-SHA-256 checksum
-Atomic rollback
+A productivity dashboard designed to organize tasks and track productivity.
 
-------------------------------------------------
+- Implemented authentication using JWT.
+- Built dashboard visualizations using Chart.js.
+- Developed full-stack functionality using the MERN stack.
 
-Coding Profiles
+**Tech:** MongoDB · Express.js · React.js · Node.js · JWT · Chart.js
 
-LeetCode: https://leetcode.com/u/viswajith_bhamidipati/ 
+---
 
-Codeforces: https://codeforces.com/profile/viswajithbhamidipati
+### GitHub Statistics
 
-------------------------------------------------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhamidipativiswajith2007&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhamidipativiswajith2007&layout=compact&hide_border=true&theme=transparent" height="150" alt="Most used languages" />
+</p>
 
-Connect
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhamidipativiswajith2007&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
 
-LinkedIn : https://www.linkedin.com/in/viswajith-bhamidipati-621154365/
+---
 
-Email : viswajithbhamidipati@gmail.com
+### Connect With Me
 
-Resume : 
+- GitHub: [@bhamidipativiswajith2007](https://github.com/bhamidipativiswajith2007)
+- LinkedIn: [Add your LinkedIn profile URL]
+- Email: [Add your professional email]
 
-------------------------------------------------
+---
+
+<p align="center">
+  <i>Building systems. Understanding fundamentals. Improving every day.</i>
+</p>
