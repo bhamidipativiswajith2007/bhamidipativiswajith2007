@@ -1,106 +1,117 @@
-# Hi, I'm Viswajith Bhamidipati 👋
+# Sri Sai Viswajith Bhamidipati
 
-### Software Engineer | Backend & Distributed Systems
+### Backend Engineer | Distributed Systems | AI Engineering
 
-I'm an Electronics & Communication Engineering undergraduate at **NIT Rourkela**, interested in building scalable backend systems, distributed architectures, and real-time applications.
+B.Tech in Electronics & Communication Engineering @ **NIT Rourkela** (2024–2028)
 
-I enjoy understanding how systems work internally — from database internals and networking to distributed storage and system design.
+I build backend systems, distributed architectures and AI-powered applications. I'm particularly interested in system design, database internals, scalability and building reliable systems.
 
-- 🔭 Building backend systems and distributed applications.
-- 🌱 Exploring TypeScript, Next.js, PostgreSQL and AI infrastructure.
-- ⚙️ Interested in system design, databases, scalability and performance.
-- 💡 Focused on writing reliable, maintainable and efficient software.
+- Building scalable backend services and distributed systems.
+- Exploring AI engineering, RAG pipelines and vector databases.
+- Interested in concurrency, fault tolerance and system architecture.
+- Competitive programmer focused on problem-solving and algorithms.
 
 ---
 
-### Tech Stack
+### Technical Skills
 
 **Languages**
 
-C++ · JavaScript · TypeScript · Python
+C++ · C · JavaScript · TypeScript · Python · SQL
 
-**Backend & Databases**
+**Backend & Systems**
 
-Node.js · Express.js · MongoDB · PostgreSQL · Mongoose · REST APIs
+Node.js · Express.js · Next.js · REST APIs · Microservices · Distributed Systems · Concurrency
 
-**Frontend**
+**Databases & AI**
 
-React.js · Next.js · HTML · CSS
+PostgreSQL · MongoDB · Redis · pgvector · RAG · Vector Databases · Gemini API
 
-**Infrastructure & Tools**
+**Infrastructure & Real-Time**
 
-Docker · Git · GitHub · Nginx · Socket.io · WebRTC
+Docker · Docker Compose · WebRTC · WebSockets · Socket.io · Git · GitHub
 
 ---
 
 ### Featured Projects
 
-#### 01. Replicora — Distributed File Storage System
+#### 01. HireMatch — AI Semantic Job Fit Engine
 
-A distributed file storage system built using a coordinator-worker architecture.
+*Next.js · TypeScript · Supabase · PostgreSQL · pgvector · RAG · Gemini API*
 
-- Designed a metadata coordinator for file ingestion, chunking and replica placement.
-- Implemented distributed storage nodes for binary file operations.
-- Built round-robin replica selection.
-- Implemented rollback mechanisms to handle partial upload failures.
-- Used streaming to process files efficiently.
+An AI-powered job matching engine combining semantic retrieval and keyword search to evaluate candidate-job alignment.
 
-**Tech:** Node.js · Express.js · MongoDB · Docker · Nginx
+- Designed a hybrid search engine combining dense vector embeddings (pgvector HNSW) and sparse keyword search (PostgreSQL GIN) using Reciprocal Rank Fusion (RRF).
+- Built an explainable AI pipeline using Gemini API to generate structured match scores and identify skill gaps.
+- Developed a TypeScript/Node.js ingestion pipeline with batching and exponential backoff to process 768-dimensional embeddings.
 
-#### 02. Synapse — Full-Stack Collaborative Interview Suite
+[Source Code](https://github.com/bhamidipativiswajith2007/HireMatch)
 
-A real-time collaborative interview platform combining communication and coding tools.
+#### 02. Distributed File Storage System
 
-- Integrated real-time communication using WebRTC and Socket.io.
-- Built a collaborative code editor using Monaco Editor.
-- Integrated a collaborative whiteboard using HTML5 Canvas.
-- Designed backend services for managing collaborative sessions.
+*Node.js · Docker · REST APIs · Binary Streams · SHA-256 · Distributed Systems*
 
-**Tech:** MongoDB · Express.js · React.js · Node.js · WebRTC · Socket.io
+A distributed object storage engine designed to store and retrieve large files across multiple containerized storage nodes.
 
-#### 03. InstaChat — Real-Time Messaging & Calling Platform
+- Implemented file partitioning into 4MB blocks across 3 containerized nodes, coordinated through centralized metadata management.
+- Built non-blocking chunked stream reconstruction with O(1) memory buffer overhead.
+- Implemented 2x asynchronous block replication with atomic rollback on partial write failures.
+- Integrated SHA-256 checksum verification for data integrity.
 
-A real-time messaging and communication application.
+[Source Code](https://github.com/bhamidipativiswajith2007/Distributed-File-Storage-System)
 
-- Implemented real-time messaging using Socket.io.
-- Integrated peer-to-peer audio and video calling using WebRTC.
-- Used MongoDB for persistent conversation data.
+#### 03. Synapse — Real-Time Distributed Code Execution & Interview Engine
 
-**Tech:** React.js · Node.js · Express.js · MongoDB · Socket.io · WebRTC
+*Redis · WebRTC · Socket.io · Docker · Node.js · Express.js · MongoDB · React.js · Gemini API*
 
-#### 04. ZenSpace — Productivity Dashboard
+A collaborative interview platform integrating remote code execution, real-time collaboration and peer-to-peer communication.
 
-A productivity dashboard designed to organize tasks and track productivity.
+- Built a sandboxed code execution gateway integrating Piston and Gemini APIs with isolated backend execution and strict timeouts.
+- Designed a low-latency synchronization engine using WebRTC, Socket.io and Redis, supporting 15+ concurrent sessions at sub-200ms latency.
+- Developed fault-tolerant LLM prompt validation and response parsing for malformed and partial code submissions.
 
-- Implemented authentication using JWT.
-- Built dashboard visualizations using Chart.js.
-- Developed full-stack functionality using the MERN stack.
-
-**Tech:** MongoDB · Express.js · React.js · Node.js · JWT · Chart.js
+[Source Code](https://github.com/bhamidipativiswajith2007/Synapse-2) · [Live Demo](REPLACE_WITH_DEMO_URL)
 
 ---
 
-### GitHub Statistics
+### Competitive Programming
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhamidipativiswajith2007&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhamidipativiswajith2007&layout=compact&hide_border=true&theme=transparent" height="150" alt="Most used languages" />
-</p>
+- **LeetCode:** Knight | Peak Rating: 1933 | Top 4% globally.
+- **Codeforces:** Specialist | Peak Rating: 1525.
+- Solved 1,000+ DSA problems across LeetCode, Codeforces and GeeksforGeeks.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhamidipativiswajith2007&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
+[LeetCode](https://leetcode.com/u/viswajith_bhamidipati/) · [Codeforces](https://codeforces.com/profile/viswajithbhamidipati)
 
 ---
 
-### Connect With Me
+### Engineering Experience
 
-- GitHub: [@bhamidipativiswajith2007](https://github.com/bhamidipativiswajith2007)
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your professional email]
+**Open Code Club — NIT Rourkela**
+
+*Technical Member | 2024 – Present*
+
+- Conducted technical workshops and mentored 30+ students in full-stack development using Node.js and React.
+- Guided teams through application architecture and deployment of their first web applications.
+
+---
+
+### Education
+
+**National Institute of Technology, Rourkela**
+
+B.Tech — 2024 – 2028 (Expected) 
+
+---
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/viswajith-b-621154365/)
+- [GitHub](https://github.com/bhamidipativiswajith2007)
+- [LeetCode](https://leetcode.com/u/viswajith_bhamidipati/)
+- [Codeforces](https://codeforces.com/profile/viswajithbhamidipati)
 
 ---
 
 <p align="center">
-  <i>Building systems. Understanding fundamentals. Improving every day.</i>
+  <i>Building reliable systems. Exploring complex engineering problems. Learning continuously.</i>
 </p>
